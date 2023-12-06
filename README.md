@@ -23,6 +23,7 @@ I love data. This is one of the reasons why. We can see based on this graph that
 2. In the past couple of years, how has the prices of both electric and hybrid vehicles changed? Since, prices have a direct correlation with the quality of a vehicle, how has the price a vehicle affected the electric range of a vehicle?
 
 Importance: 
+As many consumers view the electric car change as something that is "futuristic" or "unrealistic", viewing the price changes lets us know how electric cars have flourished. As we can see that the price in the early years of production was really high but we can see as the prices decrease, the electric car world has became affordable for every driver. People have the stigma that you have to be weathly to purchase an electric vehicle, which is totally not true. As we can see, companies are trying to push this stigma out of the consumer's mind. We as a collective whole need to understand that the world needs to adapt to what is happening. As a carbon footprint of human beings is getting worse, we can make small changes like these to better the gas and emissions and overall improve the air quality of where we live. Electric vehicles are the next beautiful thing. 
 
 <img width="1274" alt="Screenshot 2023-12-06 at 2 25 33 AM" src="https://github.com/drd40790/ElectricVehicles/assets/149820814/1763e95a-9b3b-4574-a5c8-b377e9a25b04">
 
