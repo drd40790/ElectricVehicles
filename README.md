@@ -41,5 +41,5 @@ As we can see this graph, I have combined EV and hybrid vehicles and seen the pr
 
  The data that I found did an awesome job laying out every variable and we got to see through the platform of tableau how well the data performed as some variables were changed. The only manipulation I did was to filter out some of the data in the platform as some of the times the user who put in the data for these questions did not fill out the data so the values were null. Overall, data manipulation wasn't necessary, but we did find it crucial to standardize our dataset. The essence of standardization lies in transforming raw data into actionable insights before delving into analysis. Our dataset aligns seamlessly with this principle, housing quantifiable information that meets the criteria of being both meaningful and interpretable.
 
-#Credits
+# Credits
 Tableau packaged workbook.
