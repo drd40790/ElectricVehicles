@@ -3,7 +3,7 @@
 Dev Davey (drd40790) drd40790@uga.edu
 # Description
 
-Our dataset was retrieved through the Washington State Department of Licensing from (https://catalog.data.gov/dataset/electric-vehicle-population-data). The data contained a variety of data types. Starting with the string data type dimension, we had the vehicle registration's county, city, state, model, make, electric vehicle type (EV or hybrid), and the electric utility. On the other hand, dimensions which were a whole number integer data type were electric range, base msrp, vehicle ID, postal code and model year. 
+Our dataset was retrieved through the Washington State Department of Licensing from (https://catalog.data.gov/dataset/electric-vehicle-population-data). The data contained a variety of data types. Starting with the string data type dimension, we had the vehicle registration's county, city, state, model, make, electric vehicle type (EV or hybrid), and the electric utility. On the other hand, dimensions which were a whole number integer data type were electric range, base msrp, vehicle ID, postal code and model year. Overall, our data set includes data which will help us better understand how EVs and hybrid vehicles operate in the Washington market.
 
 # Question 1
 Based on both of the vehicle types, what would be the average electric range that a consumer can get from each make? What would be the top-3 makes with the most electric range?
