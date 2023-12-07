@@ -1,5 +1,6 @@
 # Electric Vehicles
-
+# Group Member
+Dev Davey (drd40790) drd40790@uga.edu
 # Description
 
 Our dataset was retrieved through the Washington State Department of Licensing from (https://catalog.data.gov/dataset/electric-vehicle-population-data). The data contained a variety of data types. Starting with the string data type dimension, we had the vehicle registration's county, city, state, model, make, electric vehicle type (EV or hybrid), and the electric utility. On the other hand, dimensions which were a whole number integer data type were electric range, base msrp, vehicle ID, postal code and model year. 
